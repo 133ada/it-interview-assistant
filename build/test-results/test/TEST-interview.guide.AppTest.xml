@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="interview.guide.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-08-14T09:20:07.314Z" hostname="DESKTOP-C2U886D" time="0.048">
+  <properties/>
+  <testcase name="contextLoads()" classname="interview.guide.AppTest" time="0.048"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
