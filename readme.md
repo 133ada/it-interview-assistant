@@ -680,8 +680,3 @@ E:\interview-guide-master\app\build\libs\app-0.0.1-SNAPSHOT.jar
 - 本地 `bootRun` 和容器运行时的依赖地址不同，前者通常使用 `localhost`，后者使用 Compose 服务名；
 - 生产环境建议增加数据库迁移、密钥管理、监控告警、链路追踪、消息重试和更严格的上传安全检查。
 
----
-
-**文档路径**：`E:\interview-guide-master\app\readme.md`  
-**文档生成日期**：2026-09-01  
-**项目默认端口**：`8080`
